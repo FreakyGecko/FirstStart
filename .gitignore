@@ -1,3 +1,4 @@
 # diese Datei schließt die unten angeführten Dateien und Ordner aus der Versionierung aus
 venv/
 .idea/
+__pycache__/
