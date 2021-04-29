@@ -1,0 +1,1 @@
+# Lambda Funktion: Fiúnktioniert oft, ohne die genaue Anzahl der Funktionen zu kennen.
