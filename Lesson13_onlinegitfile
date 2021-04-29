@@ -1,1 +1,11 @@
-print("hello")
+print("Diese Datei wurde ursprünglich online erstellt")
+# https://github.com
+
+# Verbindung mit GitHub ist über token einfacher: https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
+
+# Arbeitsschritte für Versionierung:
+# 1) Änderungen im Programmcode vornehmen
+# 2) Änderungen lokal commiten
+# 3) Commit pushen (auf online Repository hochladen)
+
+# Für die Versionierung wird automatisch ein versteckter git-Ordner angelegt (wenn dieser gelöscht wird ist die gesamte Versionsverwaltung weg.
