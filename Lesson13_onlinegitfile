@@ -9,3 +9,4 @@ print("Diese Datei wurde ursprünglich online erstellt")
 # 3) Commit pushen (auf online Repository hochladen)
 
 # Für die Versionierung wird automatisch ein versteckter git-Ordner angelegt (wenn dieser gelöscht wird ist die gesamte Versionsverwaltung weg.
+

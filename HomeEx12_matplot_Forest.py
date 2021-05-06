@@ -6,8 +6,6 @@ Trees = 20
 TreeHeights = np.random.normal(8, 3, Trees)
 TreeWidths = np.random.normal(4, 1, Trees)
 
-print(TreeWidths)
-
 TreeColor = {'color': 'green', 'linewidth': 1}
 
 TreeStandardXValues = ([1.0, 1.0, 1.5, 2.0, 2.0, 1.5, 0.5, 0.0, 0.0, 0.5, 1.0, 1.0])
